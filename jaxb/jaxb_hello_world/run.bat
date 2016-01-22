@@ -1,0 +1,1 @@
+xjc -p hello hello.xsd
