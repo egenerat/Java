@@ -12,3 +12,5 @@
 hs_err_pid*
 Maven/my-app/target/
 jaxb/jaxb_hello_world/hello/
+
+webapp-jsp/target/*
