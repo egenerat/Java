@@ -14,3 +14,7 @@ Maven/my-app/target/
 jaxb/jaxb_hello_world/hello/
 
 webapp-jsp/target/*
+
+.idea
+*.iml
+target/
