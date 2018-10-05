@@ -1,0 +1,6 @@
+
+language: java
+jdk:
+  - oraclejdk10
+script:
+  - cd java10 && javac *.java
