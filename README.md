@@ -1,7 +1,7 @@
 # Java
 Java, JavaEE
 
-[![Build Status](https://travis-ci.com/egenerat/java9.svg?branch=master)](https://travis-ci.com/egenerat/java9)
+[![Build Status](https://travis-ci.com/egenerat/Java.svg?branch=master)](https://travis-ci.com/egenerat/Java)
 
 ## Java 9
 
