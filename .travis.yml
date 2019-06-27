@@ -1,6 +1,6 @@
 
 language: java
 jdk:
-  - oraclejdk10
+  - openjdk11
 script:
   - cd java10 && javac *.java
